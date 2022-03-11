@@ -1,0 +1,30 @@
+perceptual inferences
+visual encodings
+position encodings
+protovis
+histogram
+box-and-whisker plot
+small multiples
+stem-and-leaf plot
+horizon graph
+index chart
+Q-Q plot
+stacked graph
+stream graph
+SPLOM
+brushing-and-linking
+parallel coordinates
+flow map
+choropleth map
+graduated symbol map
+Dorling cartogram
+k-means clustering
+node-link diagram
+Reingold-Tilford algorithm
+indented tree
+adjacency diagram
+enclosure diagram
+force-directed layouts
+arc diagram
+seriation
+adjacency matrix
