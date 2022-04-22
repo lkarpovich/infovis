@@ -9,3 +9,5 @@ link a datos personales procesados:
 https://docs.google.com/spreadsheets/d/1H9OGtanpB62BCqf9gYvM2FKrm8ZHa5Wq8iPfX0ZNJVQ/edit#gid=0
 
 link a explicacion del procesamiento:
+
+https://github.com/lkarpovich/infovis/blob/main/procesamiento.md
